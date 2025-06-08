@@ -16,3 +16,4 @@ Créditos y derechos
 Este sitio fue diseñado y desarrollado como parte de mi portafolio profesional.
 No se permite la reproducción o redistribución del contenido sin autorización previa.
 
+🔒 Este proyecto está protegido por la licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
